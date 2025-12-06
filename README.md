@@ -1,0 +1,2 @@
+# ZeroProtect
+Bash By Trezz
