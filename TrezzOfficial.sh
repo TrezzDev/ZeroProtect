@@ -474,7 +474,8 @@ while true; do
         11)
             install_panel
             ;;
-        12) create_subdomain
+        12) 
+            create_subdomain
             ;;
         0)
             clear
