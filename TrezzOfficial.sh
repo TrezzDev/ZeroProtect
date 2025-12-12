@@ -475,6 +475,7 @@ while true; do
             install_panel
             ;;
         12) create_subdomain
+            ;;
         0)
             clear
             show_ascii
